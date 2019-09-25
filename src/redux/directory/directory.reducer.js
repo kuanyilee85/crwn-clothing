@@ -1,36 +1,41 @@
 const INITIAL_STATE = {
   sections: [
     {
-      title: "hats",
-      imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+      title: "waves",
+      imageUrl:
+        "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
       id: 1,
-      linkUrl: "shop/hats"
+      linkUrl: "shop/waves"
     },
     {
-      title: "jackets",
-      imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+      title: "islands",
+      imageUrl:
+        "https://images.unsplash.com/photo-1544550581-1bcabf842b77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=716&q=80",
       id: 2,
-      linkUrl: "shop/jackets"
+      linkUrl: "shop/islands"
     },
     {
-      title: "sneakers",
-      imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+      title: "creatures",
+      imageUrl:
+        "https://images.unsplash.com/photo-1516683169270-7514e272a5fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
       id: 3,
-      linkUrl: "shop/sneakers"
+      linkUrl: "shop/creatures"
     },
     {
-      title: "womens",
-      imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+      title: "scuba diving",
+      imageUrl:
+        "https://images.unsplash.com/photo-1567425928496-1ab66c650131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80",
       size: "large",
       id: 4,
-      linkUrl: "shop/womens"
+      linkUrl: "shop/scubadiving"
     },
     {
-      title: "mens",
-      imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+      title: "surfing",
+      imageUrl:
+        "https://images.unsplash.com/photo-1499823382510-3990e4b8a04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
       size: "large",
       id: 5,
-      linkUrl: "shop/mens"
+      linkUrl: "shop/surfing"
     }
   ]
 };
