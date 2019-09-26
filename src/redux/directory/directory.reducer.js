@@ -27,7 +27,7 @@ const INITIAL_STATE = {
         "https://images.unsplash.com/photo-1567425928496-1ab66c650131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80",
       size: "large",
       id: 4,
-      linkUrl: "shop/scubadiving"
+      linkUrl: "shop/scuba diving"
     },
     {
       title: "surfing",
